@@ -1,0 +1,27 @@
+h1 {
+    font-size: 65px;
+    color: azure;
+    font-style: oblique;
+}
+
+h2 {
+    color: azure;
+    font-style: oblique;
+}
+
+body {
+    background-image: url(IMG_6614.jpg);
+    background-size: cover;
+    background-attachment: scroll;
+
+}
+
+p {
+    color: azure;
+    font-style: oblique;
+}
+
+h3 {
+    color: azure;
+    font-style: oblique;
+}
